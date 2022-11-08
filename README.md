@@ -16,11 +16,11 @@ For publication, please refer here https://ijtech.eng.ui.ac.id/article/view/5827
 
 # Setup
 1. The following tools are the requirements for setting up the system:
-   - Java SE Development Kit (JDK) 16.0.2 
-   - H2 database 
-   - .JAR file of the system 
-2. Once the H2 database is installed, runs the *H2 Console*. Type *"jdbc:h2:~/happyauction"* in the JDBC URL field and clicks on Connect button.
-3. Copy and paste the SQL queries that saved inside *database.sql* in the textbox, and runs the queries.
+   - [Java SE Development Kit (JDK) 16.0.2](https://www.oracle.com/java/technologies/javase/jdk16-archive-downloads.html) 
+   - [H2 database](https://github.com/soochin17/HappyAuction/blob/main/h2-setup-2022-01-17.rar)
+   - [.JAR file of the system](https://github.com/soochin17/HappyAuction/blob/main/HappyAuction-1.0.jar) 
+2. Once the H2 database is installed, runs the *H2 Console*. Type ***"jdbc:h2:~/happyauction"*** in the JDBC URL field and clicks on Connect button.
+3. Copy and paste the SQL queries that saved inside [*database.sql*](https://github.com/soochin17/HappyAuction/blob/main/database.sql) in the textbox, and runs the queries.
 4. After the creation of database tables, disconnect the database.
 5. Runs the *.JAR file* of the system.
 6. The system will be displayed on the screen.
