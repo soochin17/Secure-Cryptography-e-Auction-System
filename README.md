@@ -26,7 +26,7 @@ For publication, please refer here https://ijtech.eng.ui.ac.id/article/view/5827
 6. The system will be displayed on the screen.
 
 ## Algorithm of RSA Asymmetric Encryption and Digital Signature Scheme
-![a](https://user-images.githubusercontent.com/93151327/200515614-ec512fe1-0c8a-4e30-acfc-dfd68c0f7b7a.jpg)
+![Screenshot_1](https://user-images.githubusercontent.com/93151327/207226795-feb595af-6a60-4b5c-b4dd-4cfe922e62f0.jpg)
 
 ## Algorithm for *Setup*, *Bid*, and *Open* phase
 ![b](https://user-images.githubusercontent.com/93151327/200513829-ce040ab6-839a-4e79-b2e8-8daa13dfcd6d.jpg)
